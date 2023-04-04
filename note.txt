@@ -1,0 +1,17 @@
+slice() – metoda niedestrukcyjna 👍
+
+pierwszy argument – indeks elementu, od którego wycinamy (włącznie),
+
+drugi argument – indeks elementu, do którego wycinamy (ale bez tego elementu).
+
+
+
+splice() – metoda destrukcyjna 💣
+
+pierwszy argument – indeks elementu, od którego wycinamy (włącznie),
+
+drugi argument – ilość elementów, które wycinamy,
+
+każdy kolejny argument – nowy element, który chcemy dodać do tablicy w miejsce wyciętego.
+
+Uwaga! Zarówno przy slice jak i splice, nie musimy podawać wszystkich argumentów. Jeden też zadziała. 😉
